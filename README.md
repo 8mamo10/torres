@@ -1,1 +1,5 @@
 # torres
+
+```
+ $ gcloud run deploy
+```
