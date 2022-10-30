@@ -1,9 +1,10 @@
 # torres
 
 ```
- $ npm start
- $ PORT=8081 NAME=node1 npm start
- $ PORT=8082 NAME=node2 npm start
+$ npm start
+$ PORT=8081 NAME=node1 npm start
+$ PORT=8082 NAME=node2 npm start
+$ PORT=8081 NAME=node1 URL=http://127.0.0.1:8091 npm start
 ```
 
 ```
